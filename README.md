@@ -19,6 +19,8 @@ This repository implements a dynamic spillover framework using a rolling VAR mod
 - Net spillover series
 - Publication-ready figures (300 DPI)
 - Summary statistics tables
+
+  
 figure1_spillover.png
 figure2_net.png
 figure3_heatmap.png
