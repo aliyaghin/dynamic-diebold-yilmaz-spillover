@@ -21,13 +21,18 @@ This repository implements a dynamic spillover framework using a rolling VAR mod
 - Summary statistics tables
 
   
-figure1_spillover.png
+### Figure 1: Dynamic Spillover Index
+![Spillover Index](figure1_spillover.png)
 
-figure2_net.png
+---
 
-figure3_heatmap.png
+### Figure 2: Net Spillover Dynamics
+![Net Spillover](figure2_net.png)
 
-table_summary.csv
+---
+
+### Figure 3: FEVD Spillover Matrix
+![Heatmap](figure3_heatmap.png)
 
 ## How to run
 
