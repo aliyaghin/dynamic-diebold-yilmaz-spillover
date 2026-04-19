@@ -22,8 +22,11 @@ This repository implements a dynamic spillover framework using a rolling VAR mod
 
   
 figure1_spillover.png
+
 figure2_net.png
+
 figure3_heatmap.png
+
 table_summary.csv
 
 ## How to run
