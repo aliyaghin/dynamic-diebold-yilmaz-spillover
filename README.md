@@ -19,6 +19,10 @@ This repository implements a dynamic spillover framework using a rolling VAR mod
 - Net spillover series
 - Publication-ready figures (300 DPI)
 - Summary statistics tables
+figure1_spillover.png
+figure2_net.png
+figure3_heatmap.png
+table_summary.csv
 
 ## How to run
 
@@ -26,3 +30,4 @@ This repository implements a dynamic spillover framework using a rolling VAR mod
 pip install -r requirements.txt
 python src/main_spillover.py
 python src/export_outputs.py
+
