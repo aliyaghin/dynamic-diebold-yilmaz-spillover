@@ -34,16 +34,7 @@ This repository implements a dynamic spillover framework using a rolling VAR mod
 ### Figure 3: FEVD Spillover Matrix
 ![Heatmap](figure3_heatmap.png)
 
-### Table: Summary Statistics
 
-The following table summarizes the spillover index:
-
-- Mean
-- Max
-- Min
-- Standard Deviation
-
-File: `results/table_summary.csv`
 ## How to run
 
 ```bash
