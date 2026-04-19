@@ -27,7 +27,7 @@ This repository implements a dynamic spillover framework using a rolling VAR mod
 ---
 
 ### Figure 2: Net Spillover Dynamics
-![Net Spillover](figure2_net.png)
+![Net Spillover](figure2_net_spillover.png)
 
 ---
 
